@@ -1,6 +1,3 @@
-Voici une version dynamisée de votre README avec des icônes pour rendre la présentation plus attrayante et claire :  
-
----
 
 # 💊 **BigPharma - Système de Gestion Pharmaceutique**  
 
