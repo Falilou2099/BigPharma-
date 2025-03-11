@@ -9,10 +9,12 @@ BigPharma est une application de gestion pharmaceutique complète conçue pour s
 
 ## 🖼️ **Captures d'Écran**  
 
-![Image](https://github.com/user-attachments/assets/b4755f1a-aecd-4cc1-97a4-ea6f836a046a)
-![Image](https://github.com/user-attachments/assets/05a8e47a-dd21-43b6-951f-e1ff1d36d591)
-![Image](https://github.com/user-attachments/assets/eeb394a4-65ae-4488-8586-a03829285102)
-![Image](https://github.com/user-attachments/assets/78c60758-2e3d-46cd-a305-e3e064e572ac)
+![Screenshot 2025-03-11 145749](https://github.com/user-attachments/assets/8a45d685-6b7a-4304-b252-281d73266ee5)
+![Screenshot 2025-03-11 145807](https://github.com/user-attachments/assets/fb38b447-2516-4d3f-8083-b818b37004d0)
+![Screenshot 2025-03-11 145827](https://github.com/user-attachments/assets/165c0858-43ce-49d4-80a2-c4f99013cb3f)
+![Screenshot 2025-03-11 145845](https://github.com/user-attachments/assets/4d122629-d84e-4d9e-9f8d-dbc66924c7cb)
+
+
 
 ---
 
